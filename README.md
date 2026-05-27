@@ -150,7 +150,7 @@ Machine Learning Insights
 Dashboard Overview
 
 Overview
-![Overview](Dashboard overview.png)
+![ Dashboard overview](Dashboard overview.png)
 
  Churn Analysis
 ![Churn Analysis](Churn Analysis.png)
