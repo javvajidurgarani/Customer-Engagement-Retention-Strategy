@@ -150,16 +150,16 @@ Machine Learning Insights
 Dashboard Overview
 
 Overview
-![ Dashboard overview](Dashboard overview.png)
+![ Dashboard overview](Dashboardoverview.png)
 
  Churn Analysis
 ![ChurnAnalysis](ChurnAnalysis.png)
 
   Charts
-![Charts](Feature importance chart.png)
+![Charts](Featureimportancechart.png)
 
   ML Model
-![ML Model](ML Model Result.png)
+![ML Model](MLModelResult.png)
 
 
 
