@@ -153,7 +153,7 @@ Overview
 ![ Dashboard overview](Dashboard overview.png)
 
  Churn Analysis
-![Churn Analysis](Churn Analysis.png)
+![ChurnAnalysis](ChurnAnalysis.png)
 
   Charts
 ![Charts](Feature importance chart.png)
